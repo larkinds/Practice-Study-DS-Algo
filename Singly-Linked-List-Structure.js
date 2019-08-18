@@ -25,7 +25,7 @@ class SinglyLinkedList {
     this.length++
   }
   pop() {
-      
+
   }
 }
 
